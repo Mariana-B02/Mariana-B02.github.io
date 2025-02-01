@@ -1,18 +1,18 @@
 body{
-  background-color: #707070
+  background-color: #0a608e
   padding: 30px;
   color: #000000;
 }
  .boton {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ebe7cd;
-  color: #de6500;
+  background-color: #bc4410;
+  color: white;
   margin-right: 50px;
 }
  .boton-2 {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ebe7cd;
-  color: #de6500;
+  background-color: #bc4410;
+  color: white;
  }
